@@ -1,0 +1,12 @@
+p {
+    color: darkorchid;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 50px;
+}
+
+a:visited {
+    color:black;
+}
